@@ -6,7 +6,7 @@ twine
 build
 wheel
 astroid
-setuptools>=45
+setuptools>=70.0.0
 setuptools_scm
 
 # For sphinx
